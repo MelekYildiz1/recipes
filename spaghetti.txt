@@ -1,0 +1,12 @@
+Spaghetti Recipe
+
+Ingredients:
+- Spaghetti
+- Tomato sauce
+- Garlic
+- Salt
+
+Instructions:
+1. Cook spaghetti for 10 minutes.
+2. Heat sauce.
+3. Mix together and serve.
