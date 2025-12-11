@@ -4,6 +4,7 @@ Ingredients:
 - Flour
 - Eggs
 - Sugar
+-butter
 
 Instructions:
 1. Mix all ingredients.
