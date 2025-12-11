@@ -1,0 +1,9 @@
+Salad Recipe
+Ingredients:
+- Lettuce
+- Tomato
+- Cucumber
+
+Instructions:
+1. Chop all vegetables.
+2. Mix and serve.

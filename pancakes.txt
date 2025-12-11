@@ -1,0 +1,10 @@
+Pancake Recipe
+Ingredients:
+- Milk
+- Flour
+- Eggs
+- Sugar
+
+Instructions:
+1. Mix all ingredients.
+2. Fry in a pan.
